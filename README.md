@@ -1,2 +1,8 @@
-# ruby-china-app-ui
-UI Design of Ruby China App
+# Ruby China App UI Design
+
+
+### Tools
+
+- Sketch
+
+Copyright! Ruby China.
